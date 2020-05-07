@@ -1,0 +1,2 @@
+# nginx-configs
+Basic configuration for nginx and php
